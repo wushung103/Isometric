@@ -21,6 +21,6 @@
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "0.7.9",
   "url": "https://gitlab.com/jesusafier/grape_juice-isometrics/",
-  "manifest": "https://gitlab.com/jesusafier/grape_juice-isometrics/-/jobs/artifacts/master/raw/module.json?job=build-module",
+  "manifest": "https://raw.githubusercontent.com/wushung103/Isometric/main/module.json?token=AE4WLW6IXJHCKZ4LQQP3HC3ACER4Q",
   "download": "https://gitlab.com/jesusafier/grape_juice-isometrics/-/jobs/artifacts/master/raw/grape_juice-isometrics.zip?job=build-module"
 }
