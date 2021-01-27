@@ -1,0 +1,26 @@
+{
+  "name": "grape_juice-isometrics",
+  "title": "grape_juice-isometrics",
+  "description": "Isometric Module for foundry.",
+  "version": "0.0.15",
+  "author": "Jesusafier Ohh",
+  "scripts": [
+    "./scripts/main.js", 
+    "./scripts/token.js", 
+    "./scripts/matrix.js", 
+    "./scripts/config.js", 
+    "./scripts/outliner.js", 
+    "./scripts/tile.js", 
+    "./scripts/wall.js",
+    "./scripts/ui.js",
+    "./scripts/sight.js",
+    "./scripts/hud.js",
+    "./scripts/helpers.js",
+    "./scripts/behinder.js"
+  ],
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.7.9",
+  "url": "https://gitlab.com/jesusafier/grape_juice-isometrics/",
+  "manifest": "https://gitlab.com/jesusafier/grape_juice-isometrics/-/jobs/artifacts/master/raw/module.json?job=build-module",
+  "download": "https://gitlab.com/jesusafier/grape_juice-isometrics/-/jobs/artifacts/master/raw/grape_juice-isometrics.zip?job=build-module"
+}
